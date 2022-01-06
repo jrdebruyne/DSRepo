@@ -1,3 +1,2 @@
 # DSRepo
-Data Science Repo
-Will contain samples of things learned regarding Data Science
+Data Science Repo will contain samples of things learned regarding Data Science
